@@ -42,7 +42,7 @@ The dashboard focuses on answering key business questions related to:
 
 # Dataset Preview
 
-![Dataset Preview](images/dataset_preview.png)
+![Dataset Preview](dataset_preview.png)
 
 ---
 
@@ -87,7 +87,7 @@ These steps ensured the dataset was reliable for performing accurate **sales per
 
 # Dashboard Preview
 
-![Sales Performance Dashboard](images/sales_dashboard_preview.png)
+![Sales Performance Dashboard](sales_dashboard_preview.png)
 
 ### Interactive Dashboard
 
