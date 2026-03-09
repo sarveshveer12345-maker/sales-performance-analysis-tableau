@@ -92,7 +92,7 @@ These steps ensured the dataset was reliable for performing accurate **sales per
 ### Interactive Dashboard
 
 Tableau Public Dashboard Link:
-https://public.tableau.com/app/profile/sarvesh.vernekar/viz/sales_performance_dashboardProject/SalesPerformanceAnalysisDashboard?publish=yes
+https://public.tableau.com/app/profile/sarvesh.vernekar/viz/sales_performance_dashboard_17730813399360/SalesPerformanceAnalysisDashboard?publish=yes
 
 ---
 
