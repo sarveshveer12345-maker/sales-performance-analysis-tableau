@@ -87,7 +87,7 @@ These steps ensured the dataset was reliable for performing accurate **sales per
 
 # Dashboard Preview
 
-![Sales Performance Dashboard](sales_dashboard_preview.png)
+
 
 ### Interactive Dashboard
 
