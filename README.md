@@ -102,9 +102,9 @@ https://public.tableau.com/app/profile/sarvesh.vernekar/viz/sales_performance_da
 
 The dashboard highlights key business performance indicators including:
 
-* **Total Revenue**
-* **Total Profit**
-* **Total Quantity Sold**
+- **Total Revenue**
+- **Total Profit**
+- **Total Quantity Sold**
 
 These KPIs provide a quick overview of the overall business performance.
 
@@ -216,14 +216,14 @@ Based on the insights obtained from the analysis, the following recommendations 
 
 This project demonstrates several core data analytics skills including:
 
-* Data Cleaning
-* Data Visualization
-* Dashboard Design
-* Business Data Analysis
-* KPI Development
-* Trend Analysis
-* Interactive Dashboard Development
-* Data Storytelling
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- Business Data Analysis
+- KPI Development
+- Trend Analysis
+- Interactive Dashboard Development
+- Data Storytelling
 
 ---
 
