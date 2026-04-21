@@ -240,6 +240,18 @@ A shift toward profit-focused and diversified growth strategies will be critical
 
 ---
 
+## Strategic Takeaway
+
+The business is currently revenue-driven but concentrated, with performance heavily dependent on a limited set of products and a dominant category.
+
+To achieve sustainable growth, the focus should shift toward:
+
+- Diversifying revenue sources
+- Strengthening underperforming categories
+- Improving profit contribution across regions
+
+---
+
 ## Business Impact
 
 If implemented, these recommendations can:
